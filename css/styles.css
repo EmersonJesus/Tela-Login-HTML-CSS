@@ -116,6 +116,15 @@ body {
     text-decoration: underline;
 }
 
+a i {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: left;
+    margin: 0;
+}
+
 @media (max-width: 450px) {
     .wrapper {
         width: 300px;
